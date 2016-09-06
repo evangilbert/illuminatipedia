@@ -1,0 +1,19 @@
+- Add articles.txt/Articles StackEdit
+- Order articles by date and re-arrange by chapter
+- Verify all Blogs to Encyclopedia, article dates, and order
+- Add &#42; to titles
+- FAQ: Matt Marriott replies
+- Appendix
+- Bibliography
+- Edit articles: capitalization
+- Proofread: dates, spellcheck
+- Features: Downloads, Forums, Favicon.ico, News Module, Site Revisions, Site Search, Site Statistics, Media Section
+- Cover: Hitler collage
+- Promo: slogans
+- Publish
+- Archive
+- Format HTML
+- Mobile version
+
+- Add 404.txt
+- Author illuminati commandments article
